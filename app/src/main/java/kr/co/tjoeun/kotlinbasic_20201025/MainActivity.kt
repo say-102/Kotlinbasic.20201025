@@ -32,6 +32,7 @@ class MainActivity : AppCompatActivity() {
 
             resultTxt.text = "문구 변경 버튼이 눌림"
 
+
         }
 
 
